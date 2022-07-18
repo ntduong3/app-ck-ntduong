@@ -14,7 +14,7 @@ export default class Product extends Component {
             {(value) => (
               <div className="img-container p-5" 
                 onClick={() => value.handleDetail(id)}>
-                <img src={img} alt="product" className="card-img-top" onClick={() =>{
+                <img src={process.env.PUBLIC_URL + img} alt="product" className="card-img-top" onClick={() =>{
                   value.openModal(id);
                 }}/>
                 <button className="cart-btn" disabled={inCart ? true : false} 

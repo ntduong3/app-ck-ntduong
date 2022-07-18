@@ -7,7 +7,7 @@ export const storeProducts = [
   {
     id: 1,
     title: "PLX - Ngàng Xăng dầu",
-    img: "img/PLX_20220718.png",
+    img: "/img/PLX_20220718.png",
     price: 10,
     company: "PLX",
     info:
@@ -19,7 +19,7 @@ export const storeProducts = [
   {
     id: 2,
     title: "MBB - Ngân hàng",
-    img: "img/MBB_20220718.png",
+    img: "/img/MBB_20220718.png",
     price: 16,
     company: "MBB",
     info:
@@ -31,7 +31,7 @@ export const storeProducts = [
   {
     id: 3,
     title: "LPB - Ngân hàng",
-    img: "img/LPB_20220718.png",
+    img: "/img/LPB_20220718.png",
     price: 8,
     company: "LPB",
     info:
@@ -43,7 +43,7 @@ export const storeProducts = [
   {
     id: 4,
     title: "VRE - Vincom Detail",
-    img: "img/MBB_20220718.png",
+    img: "/img/MBB_20220718.png",
     price: 18,
     company: "VRE",
     info:
@@ -55,7 +55,7 @@ export const storeProducts = [
   {
     id: 5,
     title: "FLC - tập đoàn FLC",
-    img: "img/FLC_20220718.png",
+    img: "/img/FLC_20220718.png",
     price: 24,
     company: "FLC",
     info:
@@ -67,7 +67,7 @@ export const storeProducts = [
   {
     id: 6,
     title: "VTP - Viettel Post",
-    img: "img/VTP_20220718.png",
+    img: "/img/HAG_20220718.png",
     price: 17,
     company: "VTP",
     info:
@@ -79,7 +79,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "VHG",
-    img: "img/VHG_20220718.png",
+    img: "/img/HAG_20220718.png",
     price: 30,
     company: "VHG",
     info:
@@ -91,7 +91,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "HAG",
-    img: "img/HAG_20220718.png",
+    img: "/img/HAG_20220718.png",
     price: 30,
     company: "HAG",
     info:
@@ -103,7 +103,7 @@ export const storeProducts = [
   {
     id: 9,
     title: "SBS",
-    img: "img/SBS_20220718.png",
+    img: "/img/HAG_20220718.png",
     price: 2,
     company: "SBS",
     info:
@@ -117,7 +117,7 @@ export const storeProducts = [
 export const detailProduct = {
   id: 1,
   title: "HAG",
-  img: "img/HAG_20220718.png",
+  img: "/img/HAG_20220718.png",
   price: 10,
   company: "HAG",
   info:

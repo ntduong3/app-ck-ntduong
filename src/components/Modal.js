@@ -19,7 +19,7 @@ export default class Modal extends Component {
                 <div className="container">
                   <div className="row">
                     <div id="modal" className="text-center text-capitalize p-2">
-                      <img src={img} alt="" className="img-fluid" alt="product" />
+                      <img src={process.env.PUBLIC_URL + img} alt="" className="img-fluid" alt="product" />
                       <Link to="/">
                         <ButtonContainer onClick={() => closeModal()}>
                           Close
