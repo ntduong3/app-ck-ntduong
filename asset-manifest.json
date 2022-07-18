@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/app-ck-ntduong/static/css/main.fdf244bd.chunk.css",
+    "main.js": "/app-ck-ntduong/static/js/main.66bdf491.chunk.js",
+    "main.js.map": "/app-ck-ntduong/static/js/main.66bdf491.chunk.js.map",
+    "runtime-main.js": "/app-ck-ntduong/static/js/runtime-main.aa290d9b.js",
+    "runtime-main.js.map": "/app-ck-ntduong/static/js/runtime-main.aa290d9b.js.map",
+    "static/css/2.de424728.chunk.css": "/app-ck-ntduong/static/css/2.de424728.chunk.css",
+    "static/js/2.6a66ec70.chunk.js": "/app-ck-ntduong/static/js/2.6a66ec70.chunk.js",
+    "static/js/2.6a66ec70.chunk.js.map": "/app-ck-ntduong/static/js/2.6a66ec70.chunk.js.map",
+    "index.html": "/app-ck-ntduong/index.html",
+    "precache-manifest.79dbcefbf2944bdc44dddba2fa65ee55.js": "/app-ck-ntduong/precache-manifest.79dbcefbf2944bdc44dddba2fa65ee55.js",
+    "service-worker.js": "/app-ck-ntduong/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/app-ck-ntduong/static/css/2.de424728.chunk.css.map",
+    "static/css/main.fdf244bd.chunk.css.map": "/app-ck-ntduong/static/css/main.fdf244bd.chunk.css.map",
+    "static/js/2.6a66ec70.chunk.js.LICENSE.txt": "/app-ck-ntduong/static/js/2.6a66ec70.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/app-ck-ntduong/static/media/logo.9f7e506d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa290d9b.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.6a66ec70.chunk.js",
+    "static/css/main.fdf244bd.chunk.css",
+    "static/js/main.66bdf491.chunk.js"
+  ]
+}
